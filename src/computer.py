@@ -1,6 +1,6 @@
 import random
 
-p=["Rock","Paper","Scissors"] #possiblities
+p=["rock","paper","scissors"] #possiblities
 
-computer_choice=random.choice(p) #value of choosen random object from the list
+computer_choice=random.choice(p) 
 print(f"Computer choosed: {computer_choice}")

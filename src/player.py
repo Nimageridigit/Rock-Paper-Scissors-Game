@@ -18,5 +18,3 @@ def input_checker():
         else:
             print("❌ Invalid input! Please enter rock, paper, or scissors.")
 
-player_choice=input_checker()
-print(f"You choosed: {player_choice} ")
